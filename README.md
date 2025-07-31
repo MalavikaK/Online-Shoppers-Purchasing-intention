@@ -14,6 +14,8 @@ Objective : Building machine learning models to identify user behaviour patterns
 
 <img width="1155" height="695" alt="image" src="https://github.com/user-attachments/assets/857c69c0-aa97-4f7a-82f3-d1f111f8805d" />
 
+###Data Preprocessing and Model Implementation
+
 <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/9d7aa35d-0366-4915-892b-cac9454df9b6" />
 
 <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/5eb5c1e6-0224-4369-9892-82f77730ae44" />
